@@ -1,6 +1,6 @@
 # Technical Documentation Webpage
 
-![Project Image](/images/project-image.png)
+![Project Image](/cat.jpg)
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
