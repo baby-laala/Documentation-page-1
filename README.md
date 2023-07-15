@@ -9,7 +9,7 @@ Welcome to the Technical Documentation Webpage project! This project is part of 
 ![Image 4](/image4.jpeg)
 ![Image 1](/image1.jpeg)
 
-🚀 [Demo](https://baby-laala.github.io/Documentation-page-1/)
+🚀 Click the following link to view the webpage [Demo](https://baby-laala.github.io/Documentation-page-1/)
 
 ## Table of Contents
 
